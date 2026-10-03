@@ -1,0 +1,7 @@
+{
+  "name": "vidyaverse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VidyaVerse: AI learning website for Class 1 to 12 with the VidyaBot doubt solver",
+  "type": "module"
+}
